@@ -1,0 +1,16 @@
+{
+  "pizzas": [
+    {
+      "id": "ewq1",
+      "name": "Маргарита",
+      "price": 110,
+      "ingredients": [
+        "Томатний соус",
+        "Сир моцарела",
+        "Свіжий базилік",
+        "Оливкова олія"
+      ],
+      "image": "https://grigliata.com.ua/wp-content/uploads/2023/04/Margarita.jpg"
+    }
+  ]
+}
