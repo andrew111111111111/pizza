@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/css/style.css"],"sourcesContent":[".basicLightbox__placeholder {\r\n  background-color: aliceblue;\r\n  position: fixed;\r\n  inset: 0;\r\n}\r\n"],"names":[],"version":3,"file":"adminpanel_pizza.c92073ef.css.map","sourceRoot":"/__parcel_source_root/"}
