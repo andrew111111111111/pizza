@@ -1,16 +1,40 @@
 {
   "pizzas": [
     {
-      "id": "ewq1",
-      "name": "Маргарита",
-      "price": 110,
+      "0": {},
+      "1": {},
+      "2": {},
+      "3": {},
+      "id": "tew2",
+      "name": "Пепероні",
+      "price": 185,
       "ingredients": [
-        "Томатний соус",
-        "Сир моцарела",
-        "Свіжий базилік",
-        "Оливкова олія"
+        "Яловичина",
+        "Паприка",
+        "Спеції та цукор",
+        "Перець чилі",
+        "Кухонна сіль",
+        "Нітрити"
       ],
-      "image": "https://grigliata.com.ua/wp-content/uploads/2023/04/Margarita.jpg"
+      "image": "https://storage.cdneu.syrve.com/syrveweb/sushi-stars-chain-co/7411/images/items/9885fcebd4504fbede7384ac9b011d79.WEBP"
+    },
+    {
+      "id": "lol4",
+      "name": "4 сири",
+      "price": 199,
+      "ingredients": [
+        "Ґорґонцола",
+        "Моцарела",
+        "Фонтіна",
+        "Пармеазан"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Pizza_quattro_formaggi_at_restaurant%2C_Chalk_Farm_Road%2C_London.jpg?utm_source=uk.wikipedia.org&utm_campaign=index&utm_content=original"
+    },
+    {
+      "id": "8180",
+      "name": "1",
+      "price": "1",
+      "ingredients": "1,1,1,1,2,2"
     }
   ]
 }
